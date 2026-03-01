@@ -37,10 +37,6 @@ I am a **Software Developer in Training** from Medellín, Colombia.
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kev289&show_icons=true&theme=tokyonight&count_private=true" alt="Kevin's GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kev289&theme=tokyonight" alt="Kevin's Streak Stats" />
 </p>
 
