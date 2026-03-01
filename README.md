@@ -3,14 +3,14 @@
 I am a **Software Developer in Training** from Medellín, Colombia.
 ---
 
-### 🚀 About Me
+### About Me
 - Currently leveling up my skills in Full Stack Development.
 - Future goals: Master **C#** and **TypeScript** to build scalable applications.
 - Open to collaboration on interesting Open Source projects.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages & Databases:**
 <p align="left">
@@ -34,7 +34,7 @@ I am a **Software Developer in Training** from Medellín, Colombia.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kev289&show_icons=true&theme=tokyonight&count_private=true" alt="Kevin's GitHub Stats" />
@@ -46,7 +46,7 @@ I am a **Software Developer in Training** from Medellín, Colombia.
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 <p align="left">
   <a href="mailto:kevinuribe114@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
