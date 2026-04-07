@@ -1,14 +1,14 @@
 # Hi there, I'm Kevin Uribe!
 
-I am a **Software Developer** from Medellín, Colombia, currently specializing in advanced web architectures.
+I am a **Software Developer** from Medellín, Colombia, currently focused on advancing my expertise in modern web architectures.
 
 ---
 
 ### Professional Profile
 
-* **Current Focus:** Mastering the **Next.js** and **React** ecosystem to build high-performance, scalable web applications.
-* **Technical Goals:** Deepening my expertise in **TypeScript** and exploring enterprise-grade backend solutions with **.NET / C#**.
-* **Open Source:** Interested in collaborating on projects that involve clean architecture and modular design.
+* **Current Learning Path:** Deep diving into the **React** and **Next.js** ecosystem to build high-performance applications.
+* **Technical Goals:** Mastering **TypeScript** patterns and exploring enterprise-grade backend solutions with **.NET / C#**.
+* **Open Source:** Interested in collaborating on projects that involve clean architecture and modular software design.
 
 ---
 
@@ -24,10 +24,10 @@ I am a **Software Developer** from Medellín, Colombia, currently specializing i
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-**Frontend & Frameworks**
+**In Progress (Currently Learning)**
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
@@ -60,5 +60,3 @@ I am a **Software Developer** from Medellín, Colombia, currently specializing i
 </p>
 
 ---
-
-> Exploring software engineering with the same curiosity we use to explore the cosmos.
