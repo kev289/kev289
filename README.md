@@ -4,7 +4,7 @@ I am a **Software Developer** from Medellín, Colombia, currently focused on adv
 
 ---
 
-### // PROFESSIONAL PROFILE
+### PROFESSIONAL PROFILE
 
 * **Current Focus:** Building scalable applications with the **React** and **Next.js** ecosystem, integrating Vector Databases (**PostgreSQL + pgvector**) and RAG patterns.
 * **Technical Goals:** Mastering enterprise-grade backend solutions with **.NET / C#** and deepening my knowledge in Cloud Infrastructure.
@@ -12,7 +12,7 @@ I am a **Software Developer** from Medellín, Colombia, currently focused on adv
 
 ---
 
-### // TECH STACK
+### TECH STACK
 
 **Frontend Development**
 <p align="left">
@@ -42,7 +42,7 @@ I am a **Software Developer** from Medellín, Colombia, currently focused on adv
 
 ---
 
-### // FUTURE ROADMAP (UPCOMING)
+### FUTURE ROADMAP
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -53,7 +53,7 @@ I am a **Software Developer** from Medellín, Colombia, currently focused on adv
 
 ---
 
-### // GITHUB ACTIVITY
+### GITHUB ACTIVITY
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kev289&theme=tokyonight&hide_border=true" alt="Kevin's Streak Stats" />
@@ -61,7 +61,7 @@ I am a **Software Developer** from Medellín, Colombia, currently focused on adv
 
 ---
 
-### // CONTACT INFORMATION
+### CONTACT INFORMATION
 
 <p align="left">
   <a href="mailto:kevinuribe114@gmail.com">
